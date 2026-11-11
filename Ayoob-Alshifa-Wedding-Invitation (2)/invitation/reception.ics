@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Invitation//EN
+BEGIN:VEVENT
+UID:ayoob-alshifa-20261206@invitation
+DTSTAMP:20261110T000000Z
+DTSTART:20261206T130000Z
+SUMMARY:Ayoob and Alshifa Wedding Reception
+LOCATION:Arafa Event Centre\, Pathalaparamb\, Perumbavoor
+END:VEVENT
+END:VCALENDAR

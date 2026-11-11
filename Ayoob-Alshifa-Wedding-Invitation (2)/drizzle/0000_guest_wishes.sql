@@ -1,0 +1,6 @@
+CREATE TABLE guest_wishes (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  request_id TEXT NOT NULL UNIQUE,
+  name TEXT NOT NULL,
+  message TEXT NOT NULL
+);
